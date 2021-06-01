@@ -1,5 +1,5 @@
 # OpenCV-PhotoEffect
-OpenCV with effects.
+Effects with OpenCV.
 
 Made with Visual Studio Code.
 
